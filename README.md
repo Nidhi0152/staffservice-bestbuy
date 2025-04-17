@@ -47,6 +47,7 @@ Each staff member record contains:
   "email": "jane.doe@bestbuy.com",
   "phone": "123-456-7890"
 }
+```
 
 ## Task completed
 1. 12 factor application
