@@ -17,7 +17,6 @@ spec:
         image: nidhi0152/bestbuy-staffservice
         ports:
         - containerPort: 3000
-
 ---
 apiVersion: v1
 kind: Service
