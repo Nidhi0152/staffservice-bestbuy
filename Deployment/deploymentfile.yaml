@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: staff-service
-        image: yourdockerhubusername/bestbuy-staff-service
+        image: nidhi0152/bestbuy-staffservice
         ports:
         - containerPort: 3000
 
