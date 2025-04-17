@@ -23,5 +23,5 @@ jobs:
 
     - name: Build and Push Docker Image
       run: |
-        docker build -t yourdockerhubusername/bestbuy-staff-service .
-        docker push yourdockerhubusername/bestbuy-staff-service
+        docker build -t nidhi0152/bestbuy-staffservice/bestbuy-staff-service .
+        docker push nidhi0152/bestbuy-staffservice/bestbuy-staff-service
